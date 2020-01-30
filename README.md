@@ -31,3 +31,10 @@
     ![Image alt](https://github.com/Fanbir/BDD_workshop/blob/master/screen/allure.jpg)
 
  
+3) Класс для запуска сценариев CucumberRunner, указываем нужный tags = {"@test4"} для требуемого сценария.
+
+4) После прогона сценарие формируется папка "target" -> "allure-results" 
+
+5) Для генерации "allure report" необходимо перейти в target открыть cmd и выполнить команду "allure serve" => 
+   откроется браузер с allure отчетом
+   
