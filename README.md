@@ -1,3 +1,16 @@
 
+1) Для того, чтобы начать разрабатывать сценарии необходимо заинсталлить:
 
-hgfv
+    Intellij Idea - https://www.jetbrains.com/ru-ru/idea/download/#section=windows
+    
+    JDK - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+    
+    Maven 3.6.0 - https://maven.apache.org/download.cgi
+    
+    Allure 2.7.0 - https://bintray.com/qameta/generic/allure2/view/files/io/qameta/allure/allure/2.7.0#files/io/qameta/allure/allure/2.7.0
+    
+    
+2) После правильной установки (прописав пути в системные переменные и пр...)
+
+    набрав в cmd команды 
+    
