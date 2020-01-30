@@ -17,13 +17,17 @@
 2) После правильной установки (прописав пути в "системные переменные" и пр...)
 
     набрав в cmd команды: 
+  
     JDK
+    
     ![Image alt](https://github.com/Fanbir/BDD_workshop/blob/master/screen/java.jpg)
     
     Maven
+    
     ![Image alt](https://github.com/Fanbir/BDD_workshop/blob/master/screen/maven.jpg)
     
     Allure
+    
     ![Image alt](https://github.com/Fanbir/BDD_workshop/blob/master/screen/allure.jpg)
 
  
